@@ -2,7 +2,7 @@
 My Agents
 
 I have designed a set of agents which is useful for day to day life,
-PLease see below links.
+Please see below links.
 
 1. Quiz generator based on the topic we are giving
 
